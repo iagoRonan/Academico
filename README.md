@@ -1,8 +1,5 @@
-# Academico
-Trabalhos da faculdade
-
-Pessoal, para quem ainda não concluiu o trabalho de Computação Gráfica
-segue código fonte do meu programa.
+# Acadêmico
+Trabalhos da faculdade para disciplina de Computação Gráfica
 
 Em appCompGraf/src/Forms/MainForm.java
 Local onde está todo o código fonte do programa, o código esta comentado!
